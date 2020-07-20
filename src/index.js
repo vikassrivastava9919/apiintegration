@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import LoginModal from "./LoginModal";
-import Globalcss from "./stylesheet/global.css";
-import Stylesheet from "./stylesheet/login.css";
+import "./stylesheet/global.css";
+import "./stylesheet/login.css";
 
 class App extends React.Component {
   constructor(props) {
